@@ -1,5 +1,3 @@
-# Meteorite
-
 # Meteorite Finds
 
 A global map of recovered meteorites, built in **ArcGIS Pro** with hexagon binning and glowing points on a dark navy background.
