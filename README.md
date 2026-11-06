@@ -4,7 +4,8 @@
 
 A global map of recovered meteorites, built in **ArcGIS Pro** with hexagon binning and glowing points on a dark navy background.
 
-![Meteorite]images/MeteoriteFind.png
+![Alternative text here](images/MeteoriteFind.png)
+
 
 This README is a step-by-step tutorial. If you follow it from top to bottom you will end up with the same map.
 
